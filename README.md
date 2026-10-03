@@ -15,7 +15,7 @@
 
 #### 2. 🟢 [Easy] 917. Reverse Only Letters
 - 🎯 **Тема:** Двухуказательский подход (Two Pointers)
-- 🔗 **Условие:** [![LeetCode](https://leetcode.com/problems/reverse-only-letters/description/)
+- 🔗 **Условие:** (https://leetcode.com/problems/reverse-only-letters/description/)
 - 💻 **Мое решение:** [📂 Перейти к папке с кодом](<./917. Reverse Only Letters/>)
 
 ---

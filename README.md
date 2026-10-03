@@ -1,7 +1,6 @@
 # 🚀 LeetCode Solutions & Algorithms
 
-> Репозиторий <sub><font color="red">**Петрова Артёма Олеговича**</font></sub> с решениями задач.
----
+> Репозиторий ![](https://img.shields.io/badge/Петрова_Артёма_Олеговича-red?style=flat-square) с решениями задач.---
 
 ### 📚 Список задач
 

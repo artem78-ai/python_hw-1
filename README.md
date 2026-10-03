@@ -1,7 +1,6 @@
 # 🚀 LeetCode Solutions & Algorithms
 
-> Репозиторий ![](https://img.shields.io/badge/Петрова_Артёма_Олеговича-red?style=flat-square) с решениями задач.---
-
+> Репозиторий **Петрова Артёма Олеговича** с решениями задач.
 ### 📚 Список задач
 
 #### 1. 🟢 [Easy] 733. Flood Fill
